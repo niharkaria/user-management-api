@@ -233,4 +233,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## Contact
 Nihar Karia  
 📧 Email: niharkaria7@gmail.com  
-🔗 GitHub: https://github.com/niharkaria  
+🔗 GitHub: https://github.com/niharkaria
