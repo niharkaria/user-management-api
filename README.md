@@ -213,14 +213,14 @@ This project covers:
 
 ## Future Enhancements
 
-- [ ] Email verification
-- [ ] Password reset functionality
-- [ ] Profile picture upload
-- [ ] Role-based access control (RBAC)
-- [ ] Pagination for user listings
-- [ ] Rate limiting
-- [ ] Refresh tokens
-- [ ] Unit and integration tests
+🔐 Email verification
+🔄 Refresh tokens
+📸 Profile picture upload
+👥 Role-based access control (RBAC)
+🔄 Pagination for user list
+📧 Password reset (OTP or email link)
+🧪 Unit + Integration tests
+🚫 Rate limiting
 
 ## Contributing
 
@@ -235,12 +235,3 @@ Nihar Karia
 📧 Email: niharkaria7@gmail.com  
 🔗 GitHub: https://github.com/niharkaria  
 ```
-
----
-
-## Step 3: Create `.env.example`
-
-Create a file called `.env.example` (this shows others what environment variables they need):
-```
-DATABASE_URL=postgresql://username:password@localhost:5432/user_management_db
-SECRET_KEY=your-secret-key-here
