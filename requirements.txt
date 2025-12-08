@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+psycopg2-binary
+<<<<<<< HEAD
+pydantic-settings
+=======
+pydantic-settings
+asyncpg
+>>>>>>> 780aa43 (made changes)
